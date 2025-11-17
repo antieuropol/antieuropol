@@ -5,7 +5,7 @@
 - 👋 I’m Aurèle, an IT student studying at Suzanne Valadon in Limoges.
 - 😄 Pronouns: she/any.
 - 🔭 I’m interested in networking and system optimization.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning C++ and Perl.
 
 ### Languages that I learned
 
